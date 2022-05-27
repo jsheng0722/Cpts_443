@@ -1,0 +1,16 @@
+<alvis_file>
+<script>create array a1 with 6 cells# ~  -position 0.155,0.102###populate a1 with random ints between 1 and 100# ~while i1 &lt; cells of a1  if a1[i1] &gt; maxsofar       set maxsofar to a1[i1]       endif  add 1 to i1endwhileendif</script>
+<pictures/>
+
+<paths/>
+
+<background>
+<g id="Background Ico" type="iconel" >
+</g>
+</background>
+
+<foreground>
+<g id="Markup Ico" type="iconel" >
+</g>
+</foreground>
+</alvis_file>

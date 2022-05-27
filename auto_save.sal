@@ -1,0 +1,50 @@
+<alvis_file>
+<script>create array a1 with 5 cells# ~  -position 0.228,0.186#set i1 to index 0 of a1 # ~  -picture &quot;arrayiterator&quot; ~  -picturepos above#populate a1 with random ints between 1 and 100# ~  -picture &quot;populate&quot; ~  -namevisible true #set v6 to 0# ~  -picture &quot;variable&quot; ~  -position 0.524,0.321#if a1[i1] &gt; v6  set v6 to a1[i1]   endif</script>
+<pictures>
+<g id="arrayiterator" type="iconel" clip-path="url(#ClipPath)" >
+<g id="arrayiterator_Clip" type="clip-iconel" clip-rule="nonzero" >
+<clipPath id="ClipPath" >
+	<path type="line" fill="none" point-count="2" stroke="rgb(0,0,0)" stroke-width="0.050" d="M0.0000,0.0000 L0.5000,1.0000 T1.0000,0.0000" />
+</clipPath>
+</g>
+<g id="arrayiterator_Bgrd" type="background-iconel" >
+	<rect type="rectangle" x="0.000" y="0.000" width="1.000" height="1.000" fill="rgb(255,222,222)" stroke="rgb(255,255,255)" stroke-width="0.001" />
+</g>
+	<path type="line" fill="none" point-count="3" stroke="rgb(255,0,0)" stroke-width="0.050" d="M0.5000,0.9000 L0.1000,0.1000 0.9000,0.1000 T0.5000,0.9000" />
+</g>
+<g id="populate" type="iconel" clip-path="url(#ClipPath)" >
+<g id="populate_Clip" type="clip-iconel" clip-rule="nonzero" >
+<clipPath id="ClipPath" >
+	<path type="line" fill="none" point-count="4" stroke="rgb(0,0,0)" stroke-width="0.050" d="M0.1000,0.1000 L0.1000,0.9000 0.9000,0.9000 0.9000,0.1000 T0.1000,0.1000" />
+</clipPath>
+</g>
+<g id="populate_Bgrd" type="background-iconel" >
+	<rect type="rectangle" x="0.000" y="0.000" width="1.000" height="1.000" fill="rgb(222,255,222)" stroke="rgb(255,255,255)" stroke-width="0.001" />
+</g>
+	<path type="line" fill="none" point-count="4" stroke="rgb(0,255,0)" stroke-width="0.050" d="M0.2000,0.2000 L0.2000,0.8000 0.8000,0.8000 0.8000,0.2000 T0.2000,0.2000" />
+</g>
+<g id="variable" type="iconel" clip-path="url(#ClipPath)" >
+<g id="variable_Clip" type="clip-iconel" clip-rule="nonzero" >
+<clipPath id="ClipPath" >
+	<path type="line" fill="none" point-count="4" stroke="rgb(0,0,0)" stroke-width="0.050" d="M0.1000,0.1000 L0.1000,0.9000 0.9000,0.9000 0.9000,0.1000 T0.1000,0.1000" />
+</clipPath>
+</g>
+<g id="variable_Bgrd" type="background-iconel" >
+	<rect type="rectangle" x="0.000" y="0.000" width="1.000" height="1.000" fill="rgb(222,222,255)" stroke="rgb(255,255,255)" stroke-width="0.001" />
+</g>
+	<path type="line" fill="none" point-count="4" stroke="rgb(0,0,255)" stroke-width="0.050" d="M0.2000,0.2000 L0.2000,0.8000 0.8000,0.8000 0.8000,0.2000 T0.2000,0.2000" />
+</g>
+</pictures>
+
+<paths/>
+
+<background>
+<g id="Background Ico" type="iconel" >
+</g>
+</background>
+
+<foreground>
+<g id="Markup Ico" type="iconel" >
+</g>
+</foreground>
+</alvis_file>
